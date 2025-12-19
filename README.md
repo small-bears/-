@@ -1,10 +1,15 @@
-#### 一、获取地址:
 
-#### 项目获取地址：https://www.666bear.com/8075.html
+### 联系方式（微信扫一扫）:
+<img width="444" height="560" alt="2fc79856-4bde-42f0-a5ea-83281867fbbe" src="https://github.com/user-attachments/assets/3eaeeaef-8fda-4c05-9f80-9e5361650c4a" />
 
-**博主介绍：✌全网粉丝20W+,csdn特邀作者、Java领域优质创作者、csdn/掘金/哔哩哔哩/知乎/道客/小红书等平台优质作者，计算机毕设实战导师，目前专注于大学生项目实战开发,讲解,毕业答疑辅导✌工作室接计算机毕业设计程序开发、论文代写、代码讲解、出售成品源码等毕设服务，专业靠谱~**
+### 计算机毕设定制（直接点击链接）：https://www.yuque.com/techninja/code/xrpvpxbu3y8fa3ey?singleDoc#
+## 一、获取地址:
 
-#### 作者QQ：3289948684 微信：bysj5280 (支持修改、 部署调试、 代做接毕业设计和课程设计)
+#### 项目获取地址：https://www.666bear.com/12542.html
+
+**博主介绍：✌全网粉丝30W+,csdn特邀作者、Java领域优质创作者、csdn/掘金/哔哩哔哩/知乎/道客/小红书等平台优质作者，计算机毕设实战导师，目前专注于大学生项目实战开发,讲解,毕业答疑辅导✌工作室接计算机毕业设计程序开发、论文代写、代码讲解、出售成品源码等毕设服务，专业靠谱~**
+
+#### 作者QQ：3289948684 微信：bysj7626 (支持修改、 部署调试、 代做接毕业设计和课程设计)
 
 #### 接网站建设、小程序、H5、APP、各种系统、样式修改等
 
@@ -14,53 +19,35 @@
 
 #### 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
+## 一、 项目介绍
 
-#### 二、项目演示地址：
+(协同过滤推荐算法+AI智能助手)基于SpringBoot的智能旅游助手Web平台分为前台用户模块和后台管理员模块，具体功能如下：
 
-https://www.bilibili.com/video/BV1zntjerEoV/?spm_id_from=333.999.0.0&vd_source=d6c0e92e345f995e8849e6e3baa03aeb
+（1）前台用户模块：首页、景点信息、酒店信息、旅游路线、地方分享、新闻资讯、智能 AI、个人中心（含修改密码、门票预订、酒店预订、旅游分享、路线规划、我的收藏）
+（2）后台管理员模块：系统管理、用户管理、景点类型管理、景点信息管理、门票预订管理、酒店信息管理、酒店预订管理、旅游路线管理、旅游分享管理、路线规划管理、美食分类管理、地方美食管理、系统管理、个人中心
 
-#### 三、 项目介绍
+## 二、 视频演示（点击既可以看到）
 
-基于SpringBoot Vue的旅游网站系统
+https://www.bilibili.com/video/BV1k6yYBgE4d/?spm_id_from=333.1387.search.video_card.click&vd_source=e51e8ec2fb03314ad9fa517492a2ce94
 
-角色：管理员、用户
+## 三、项目技术
 
-管理员：管理员进入主页面，主要功能包括对、首页、用户、旅游路线、路线预定、车票信息、车票预定、景点类型、景点信息、门票预定、酒店类型、酒店信息、酒店预定等进行操作
+后端： SpringBoot+Mybaits
 
-用户：当游客打开系统的网址后，首先看到的就是首页界面。在这里，导航条显示系统首页、旅游路线、车票信息、景点信息、酒店信息、美食信息、旅游攻略、论坛、公告信息
+前端：Vue +ELementUI 
 
-#### 四、项目技术
 
-是否前后端分离项目：是
 
-后端： SpringBoot+Mybatis-Plus
-
-前端：Vue + Vue Router + ELementUI + Axios
-
-#### 五、 运行环境
+## 四、 运行环境
 
 开发语言：Java
-
-项目架构：B/S架构
 
 开发工具：IDEA，Eclipse,Myeclipse都可以。推荐IDEA
 
 JDK版本：1.8
 
-数据库: MySQL5.7
-
-Tomcat环境：Tomcat 7.x,8.x,9.x版本均可
+数据库: MySQL8.0版本以上
 
 项目管理：Maven
-
-
-
-#### 六、安装教程
-
-1.使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并导入数据库脚本里面的sql文件.
-
-2.使用IDEA/Eclipse/MyEclipse导入项目，Ecipse/MyEclipse导入时
-
-3.将项目中config.properties中的数据库配置改为自己的配置
-
-4.启动项目
+## 五、 运行截图（点图片可放大）
+https://www.bilibili.com/video/BV1k6yYBgE4d/?spm_id_from=333.1387.search.video_card.click&vd_source=e51e8ec2fb03314ad9fa517492a2ce94
